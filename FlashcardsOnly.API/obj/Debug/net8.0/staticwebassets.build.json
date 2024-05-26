@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9wPrx3rFZS9701aaJ2GzphPpksajSUTGklwxoemwlnI=",
+  "Source": "FlashcardsOnly.API",
+  "BasePath": "_content/FlashcardsOnly.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
